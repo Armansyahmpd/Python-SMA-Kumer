@@ -1,4 +1,4 @@
-# Problem Simulasi Burung (kasus Boro)
+# Problem Simulasi Burung (kasus Boro menghitung jarak horizontal terjauh)
 # Buku Siswa IKM Informatika untuk SMA Kelas XI Hal. 53
 # Algoritma dan Pemrograman
 # Programmed by : Armansyah, S.Kom, M.Pd
