@@ -5,6 +5,7 @@
 # Guru Informatika SMAN Sumatera Selatan 
 # armansyah@smansumsel.sch.id
 # Alumni CS50 for Teachers Harvard-Indonesia 2022/2023
+# Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
 
 def maks_nilai_knapsack(bobot, nilai, kapasitas):
     n = len(bobot)
