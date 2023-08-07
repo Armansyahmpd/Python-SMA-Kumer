@@ -4,6 +4,7 @@
 # Programmed by : Armansyah, S.Kom, M.Pd
 # Guru Informatika SMAN Sumatera Selatan 
 # armansyah@smansumsel.sch.id
+# Alumni CS50 for Teachers Harvard-Indonesia 2022/2023
 
 def temukan_maksimal_pertunjukan(jadwal):
     jadwal_terurut = sorted(jadwal, key=lambda x: x[1])  # Urutkan jadwal berdasarkan waktu selesai
