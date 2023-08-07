@@ -21,5 +21,8 @@ kecepatan_awal = int(input("Masukkan Nilai Kecepatan awal : "))
 # Menghitung jarak horizontal
 jarak = hitung_jarak_horizontal(sudut, kecepatan_awal)
 
+# Membulatkan hasil menjadi 1 angka di belakang koma
+jarak_bulat = round(jarak, 1)
+
 # Menampilkan hasil
-print("Jarak terjauh yang dapat ditempuh oleh Boro:", jarak)
+print("Jarak terjauh yang dapat ditempuh oleh Boro:", jarak_bulat)
