@@ -1,3 +1,10 @@
+# Program mengunjungi kebun binatang 
+# Buku Siswa IKM Informatika untuk SMA Kelas XI Hal. 33
+# Aktivitas SAP-K11-05-U: Mengunjungi Kebun Binatang
+# Programmed by : Armansyah, S.Kom, M.Pd
+# Guru Informatika SMAN Sumatera Selatan 
+# armansyah@smansumsel.sch.id
+
 def temukan_maksimal_pertunjukan(jadwal):
     jadwal_terurut = sorted(jadwal, key=lambda x: x[1])  # Urutkan jadwal berdasarkan waktu selesai
     maksimal_pertunjukan = []
