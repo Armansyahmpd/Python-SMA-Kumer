@@ -4,6 +4,7 @@
 # Guru Informatika SMAN Sumatera Selatan 
 # armansyah@smansumsel.sch.id
 # Alumni CS50 for Teacher Harvard-Indonesia 2022/2023
+# Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
 
 def cari_jalur_terpendek(cabang):
     posisi_sekarang = 'A'
