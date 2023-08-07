@@ -41,7 +41,8 @@ def utama():
         print("Hasil transpose matriks:")
         for baris in hasil_transpose:
             print(baris)
-    
+            
+    # Intercept kesalahan input
     except ValueError:
         print("Input harus berupa angka.")
     except Exception as e:
@@ -50,6 +51,3 @@ def utama():
 if __name__ == "__main__":
     utama()
 
-
-if __name__ == "__main__":
-    main()
