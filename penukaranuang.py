@@ -18,7 +18,7 @@ def cari_kombinasi_minimal(nilai_target, pecahan):
     return kombinasi
 
 def main():
-    pecahan = [20000, 10000, 5000, 2000, 1000]
+    pecahan = [50000, 20000, 10000, 5000, 2000, 1000,500,100, 50]
     nilai_target = int(input("Masukkan nilai uang yang diinginkan (kelipatan ribuan): "))
     
     if nilai_target % 1000 != 0:
