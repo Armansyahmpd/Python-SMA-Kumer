@@ -4,6 +4,7 @@
 # Guru Informatika SMAN Sumatera Selatan 
 # armansyah@smansumsel.sch.id
 # Alumni CS50x Indonesia-Harvard 2023
+# Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
 
 
 def menara_hanoi(jumlah_panekuk, sumber, tujuan, bantu):
