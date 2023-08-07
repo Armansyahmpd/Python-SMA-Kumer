@@ -1,4 +1,4 @@
-# Problem Simulasi Burung (kasus Boro Prediksi Ketinggian Dicapai Boro dan Teman-temannya)
+# Problem Simulasi Burung (kasus Boro Prediksi Ketinggian Dicapai Boro)
 # Buku Siswa IKM Informatika untuk SMA Kelas XI Hal. 57
 # Algoritma dan Pemrograman
 # Programmed by : Armansyah, S.Kom, M.Pd
