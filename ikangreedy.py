@@ -5,6 +5,7 @@
 # Guru Informatika SMAN Sumatera Selatan 
 # armansyah@smansumsel.sch.id
 # Alumni CS50 for Teachers Harvard-Indonesia 2022/2023
+# Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
 
 def greedy_bag_selection(kantong_ikan, jumlah_kantong): 
     kantong_ikan.sort(reverse=True)  # Urutkan kantong-kantong berdasarkan jumlah ikan (terbesar ke terkecil) 
