@@ -1,3 +1,12 @@
+# Problem: “Simulasi Stoikiometri”
+# Buku Siswa IKM Informatika untuk SMA Kelas XI Hal. 78
+# Subproblem 1: Menghitung Atom
+# Programmed by : Armansyah, S.Kom, M.Pd
+# Guru Informatika SMAN Sumatera Selatan 
+# armansyah@smansumsel.sch.id
+# Alumni CS50 for Teachers Harvard-Indonesia 2022/2023
+# Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
+
 def hitung_atom(senyawa):
     unsur_hitungan = {}  # Dictionary untuk menyimpan hitungan unsur
 
