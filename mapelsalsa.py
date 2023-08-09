@@ -6,6 +6,7 @@
 # Guru Informatika SMAN Sumatera Selatan 
 # armansyah@smansumsel.sch.id
 # Alumni CS50 for Teachers Harvard-Indonesia 2022/2023
+# Validasi Sertifikat : https://bit.ly/ceksertifikatcs50
 # Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
 
 # Buat Daftar kelas dengan waktu mulai dan selesai
