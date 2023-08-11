@@ -31,7 +31,7 @@ def utama():
     try:
         N = int(input("Masukkan nilai N (bilangan bulat positif): "))
         if N < 0:
-            raise ValueError("N harus merupakan bilangan bulat positif.")
+            raise ValueError("N harus merupakan bilangan bulat positif.")  //buat error handler disini agar N tetap terpenuhi
         
         cara = hitung_cara_pemasangan_keramik(N)
         print(f"Jumlah cara pemasangan keramik untuk N={N}: {cara} cara.")
