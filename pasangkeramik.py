@@ -14,7 +14,7 @@ def hitung_cara_pemasangan_keramik(N):
     if N == 1:
         return 1
 
-    # Inisialisasi array untuk menyimpan jumlah cara pemasangan keramik
+    # Inisialisasi array untuk menyimpan jumlah cara pemasangan keramik menggunakan variabel dp (dynamic programming)
     dp = [0] * (N + 1)
 
     # Kasus dasar
